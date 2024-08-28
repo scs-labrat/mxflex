@@ -36,7 +36,7 @@
 4. **Banner Grabbing (SMTP and POP3)**: Retrieve server banners for enumeration.
 5. **Enumerate SMTP Users**: Identify valid SMTP users using VRFY and RCPT TO commands.
 6. **Brute-force SMTP Authentication**: Test SMTP authentication using a dictionary attack.
-7. **Gemini Email Analyzer**: Analyze emails using the Gemini AI model (OpenAI's GPT-4).
+7. **Gemini Email Analyzer**: Analyze emails using the Gemini AI model.
 
 ## Installation
 
