@@ -45,7 +45,7 @@ To install and run **MXFlex**, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/mxflex.git
+   git clone https://github.com/scs-labrat/mxflex.git
    cd mxflex
    ```
 
