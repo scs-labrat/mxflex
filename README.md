@@ -52,7 +52,8 @@ To install and run **MXFlex**, follow these steps:
 2. **Install the required Python packages**:
 
    ```bash
-   pip install -r requirements.txt
+   pip install click requests colorama python-dotenv ollama openai canvasapi dnspython fpdf beautifulsoup4 cryptography selenium pyfiglet
+
    ```
 
 3. **Set up necessary environment variables**:
